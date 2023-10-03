@@ -1090,7 +1090,7 @@ footer .copyright {
     }
     /* about */
     #page-header.about-header {
-        background-image: url("image/about/abt.jpg");
+        background-image: url("image/about/abtmb.jpg");
         background-position: 40% 60%;
     }
     #about-head {
@@ -1109,7 +1109,7 @@ footer .copyright {
     }
     /* contact */
     #page-header.contact-header {
-        background-image: url("image/contact/c.jpg");
+        background-image: url("image/contact/cmb.jpg");
         background-position: 20% 80%;
     }
     #contact-details {
