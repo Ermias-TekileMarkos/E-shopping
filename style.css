@@ -904,6 +904,7 @@ footer .copyright {
         height: 90vh;
         padding: 0 80px;
         background-position: top 30% right 30%;
+        background-repeat: no-repeat;
     }
     #hero h4{
         margin-top: 450px;
@@ -983,9 +984,10 @@ footer .copyright {
     h2 {
         font-size: 32px;
     }
+    
     #hero {
-        padding: 0 20px;
-        background-position: 55%;
+        background-image: url("image/hero2mb.jpg");
+        background-repeat: no-repeat;
     }
     #hero h4{
         margin-top: 300px;
@@ -1087,6 +1089,10 @@ footer .copyright {
         width: 100%;
     }
     /* about */
+    #page-header.about-header {
+        background-image: url("image/about/abt.jpg");
+        background-position: 40% 60%;
+    }
     #about-head {
         display: block;
         align-items: center;
@@ -1102,6 +1108,10 @@ footer .copyright {
         font-size: 20px;
     }
     /* contact */
+    #page-header.contact-header {
+        background-image: url("image/contact/c.jpg");
+        background-position: 20% 80%;
+    }
     #contact-details {
         display: block;
         align-items: center;
