@@ -989,10 +989,22 @@ footer .copyright {
     
     #hero {
         background-image: url("image/hero2mb.jpg");
-        background-repeat: no-repeat;
+        margin: 0;
+        padding: 0 60px 0 5px;
     }
-    #hero h4{
-        margin-top: 300px;
+    #hero .hero-content {
+        text-align: center;
+        
+    }
+    #hero .hero-content h4 {
+        margin-top: 150px;
+    }
+    #hero .hero-content p {
+        color: #fff;
+    }
+    #hero .hero-content p span{
+        color: #f0382b;
+        font-weight: 800;
     }
     #feature {
         justify-content: space-between;
