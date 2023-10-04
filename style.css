@@ -735,7 +735,10 @@ footer .copyright {
     object-fit: cover;
     margin-right: 15px;
     border-radius: 100%;
+    background-color: #d7ebea;
+    border: solid 1px #fcadd4;
 }
+
 #form-details .people div p{
     margin: 0;
     font-size: 13px;
